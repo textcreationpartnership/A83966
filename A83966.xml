@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands hazzard.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83966</idno>
+            <idno type="STC">Wing E2980</idno>
+            <idno type="STC">Thomason E469_20</idno>
+            <idno type="STC">ESTC R205466</idno>
+            <idno type="EEBO-CITATION">99864839</idno>
+            <idno type="PROQUEST">99864839</idno>
+            <idno type="VID">117071</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117071)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E469[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands hazzard.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Annotation on Thomason copy: "Novemb: 1st 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:117071:1" rendition="simple:additions"/>
+            <head>ENGLANDS HAZZARD.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Know it is dangerous for any man in a point of ſuch conſequence to take upon him to be a Coun<g ref="char:EOLhyphen"/>ſellor, much more a Teacher; he generally makes himſelfe but a Foole; which would ſeem wiſer than the Times; a ripe Age likes not to bee di<g ref="char:EOLhyphen"/>rected, leſt it ſhould be out-witted; true Prin<g ref="char:EOLhyphen"/>ciples will not be liſtened to againſt received Grounds; No per<g ref="char:EOLhyphen"/>ſons may ſhew their deſires, or reading, but the reward will be cenſure, or ruine: Yet in a publike Danger it is hard to keep ſi<g ref="char:EOLhyphen"/>lence, hee that bewrayeth not his affection to remedy generall Ruthes, may ſeem to want a breſt. Therefore when Church and Kingdom are in a Combuſtion, I will bring my dreeping bucket, though I be ſcorched in ſeeking to quench the Flames. The cauſe ſeemeth now to be a matter of Blood, for the whole Kingdome is upon the Challenge, and not only the Souldier playes his mor<g ref="char:EOLhyphen"/>tall prizes, but the Parliament is turned into a Counſaile of War; Committees of Greevances are become Committees of Varian<g ref="char:EOLhyphen"/>ces, and inſtead of enacting of Statutes, we have executing of Martiall-Law; whilſt the oppreſſions of the Common-wealth ought to be Reformed, the whole Kingdome is made an oppreſ<g ref="char:EOLhyphen"/>ſion; and for Iuſtice againſt private Tyrants, we meet with a ſpight againſt the King: Now Lords of Mannors torment their Tennants, or Iuſtices inſult over the poore Countrymen, and a thouſand other crying injuryes are now no ſeaſonable conſidera<g ref="char:EOLhyphen"/>tions, but al the buſie thoughts are intent about the Crown-quar<g ref="char:EOLhyphen"/>rell; as if they which ought to enjoy no Peace ſhould reſt qui<g ref="char:EOLhyphen"/>et, and He which ſhould be ſecure, muſt onely be moleſted. Oh how do all the true Malefactours triumph in villany, when He
+<pb n="2" facs="tcp:117071:2"/>ſhould be free from any mortall barre, is the onely perſon arraig<g ref="char:EOLhyphen"/>ned I culpable perſons feare not the Sword of the Iuſtice, when the ſword of violence is drawn out againſt the King. Deere So<g ref="char:EOLhyphen"/>veraign, that your miſeries muſt priviledge all other mens law<g ref="char:EOLhyphen"/>leſſe demeanours, and that you muſt weep to make them ſing! yet this is the whirle of the Times; not they, but You are hum<g ref="char:EOLhyphen"/>bled; not Vice, but Majeſty is puniſhed; the Kingdome is combined to ſuppreſſe, if not to deſtroy their naturall Soveraign; Oh that your injuries could be as eaſily redreſſed, as they can be lamented, or that your ſorrows could be as timely ended, as they are paſſionately felt; but it is <hi>Aeſculapius</hi> his finger that muſt heale this Malady; for when the whole Common-wealth is turned into a Mutiny, and they which ſhould be Your Peace<g ref="char:EOLhyphen"/>makers are turned the Patrones of the Diſcontent, it is a hard compromiſing ſuch a difference. Doubtleſſe our breach is like the Sea, and we may rather expect to ſee all under water, than to ſee the bankes repayred. Our ſufferings already have been incre<g ref="char:EOLhyphen"/>dible, but wee muſt not think upon what we have endured, but on the extremities which are behind. We have yet ſome face of a Nation amongſt us, but we may ere long ſeek for <hi>England</hi> in <hi>England,</hi> and ſee our deer Kingdom leſt a Colony for Strangers; Oh how pretious is a Native like to be! how many will the ſword leave to draw breath in their own ayre? We ſhall fight, ſo long for Priviledges, till we ſhall ſcarce have Countrymen to enjoy them; and ſtand ſo eagerly for Rights of Parliament, till we have ſcarce a <hi>Senate-houſe</hi> left. Have not many Nations thus un-Kingdomed themſelves? Hath not <hi>England</hi> formerly thus cut her own throat? If we be acquainted with Hiſtoryes, let us take heed that we be not made a Hiſtory; there need not many yeeres to effect this, a ſhort time may bring it forth. Oh<g ref="char:punc">▪</g> that we could prevent miſery, rather than haſten it on, or chaine up the the wild Beaſt, before we be made a prey. Where are our Pi<g ref="char:EOLhyphen"/>lots, which were wont to direct the Ship in a ſtorme? Where are our Watchmen, which were wont to preſerve the City, be<g ref="char:EOLhyphen"/>fore a City be made a heape? Can Ship-wrack, or Devaſtation be pleaſure, or honour to the Pilots, or Watchmen? Is there no<g ref="char:EOLhyphen"/>thing to calme this troubled aire? Nothing, if Fury blow like a Whirlewind, but ſet aſide Fury, and the guſts are downe, the the Tempeſts gone; if Religion carry any incentive with it,
+<pb n="3" facs="tcp:117071:2"/>or Scripture had not loſt its wonted reverence, our Diſtractions were growing to an end, yea we had felt the laſt of miſery: For can a King can be reſiſted? What one ſyllable of Scripture wit<g ref="char:EOLhyphen"/>neſſes it by full, and cleare authority? No, precepts are wanting, onely preſidents are inſiſted upon, as if God would have his evident Laws overthrown with particular examples; God may diſpence with the whole Bible, but it is not for us to remit the vigour of one Law, without a ſpeciall toleration from Gods one mouth. It is in vaine then for to ſhelter themſelves under the in<g ref="char:EOLhyphen"/>ſtances of <hi>David, Ieroboam, Iehu, &amp;c.</hi> except we can plead their warrant, aſwell as their example; but theſe examples excepted, what ground or rule is there in the whole Scripture to counte<g ref="char:EOLhyphen"/>nance the reſiſtance? <hi>Calvin,</hi> that condemns the attempt of pri<g ref="char:EOLhyphen"/>vate perſons in aſſaulting Superiours, what one teſtimony of Scripture doth he bring to authorize the oppoſition by the ſtates of a Kingdom? No, we muſt truſt his own opinion, for not one ſound proofe doth he alledge out of the whole Bible to juſtifie the act; <hi>Hugo Grotius</hi> which diſalloweth the reſiſtance both of private perſons and inferiour Magiſtrates (and hath nothing but the point of neceſſity to ſupport the languiſhing cauſe) yet can he not bring one inſtance of Scripture for this particular cauſe to colour this proceeding, beſides thoſe helpleſſe examples which I told you of before. And if neceſſity might be admitted as a lawful excuſe for the violating of the fift Coma<g ref="char:cmbAbbrStroke">̄</g>ndement, why upon the ſuppoſition of the like neceſſity, might not men make a breach of all the other Commandements, as having more Gods, or wor<g ref="char:EOLhyphen"/>ſhipping of Idols, or committing uncleanneſs when the remedy is wanting, or bearing falſe witneſſe when a mans eſtate, or life is endangered? Neceſſity therefore is but our greater triall, not a deſpenſation for diſobedience. The ſtrong proofs then that thoſe learned Writers bring for Obedience in general are enough to confirme ſubjection, and the weake Arguments that they uſe to erect reſiſtance with are enough to ſettle Conſcience, that the Deſigne is unſetled; yea I was never made a ſtronger ſubject, nor a weaker Rebell, then by conſidering how they are not able (which hold the contrary opinion) to pull downe that, which themſelves have built up.</p>
+            <p>
+               <hi>Reſiſtance</hi> then is no religious Act, becauſe the maintainers of
+<pb n="4" facs="tcp:117071:3"/>it ſayle in that, which ſhould give the greateſt ſtrength to the Cauſe, the approbation of Scripture. But if a King can be reſiſted, yet can ſuch a King? No, they which are moſt tenacious of the point, yet let goe their <hi>Hold-faſt, if the King be not ſoyled with the height of wickedneſſe to make him the fit object of Reſistance;</hi> but what malicious eye can ſpy out ſuch ſteynes in the intemerate brow of our pure Prince? No, he is the lu tre of the Throne, the Triumph of Monarchy; His Royall Blood hath no contagion of vulgar errours, but is the true Soveraigne of Innocency; When was the ſcepter borne with ſuch an undefiled hand? or the Crown worne with ſo many bright gemmes ſhining in it? No, he hath honoured the Throne with more conſpicuous graces, and emi<g ref="char:EOLhyphen"/>nent Vertues, then any Prince hath done for theſe may yeares; he being the pride of <hi>Humility,</hi> the ſober palate of <hi>Temperance,</hi> the pure loynes of <hi>Chaſtity,</hi> the ſoft bowells of <hi>Mercy</hi> and <hi>Clemency,</hi> the warded knee of <hi>Devotion,</hi> a ſworne <hi>Proteſtant,</hi> a vowed <hi>Pro<g ref="char:EOLhyphen"/>tectour</hi> of the <hi>Liberties</hi> of his Subjects, ambitious of <hi>Peace,</hi> and one that would ſtrike the weapons out of his enemies hands with an <hi>Act of Oblivion.</hi> Oh that ſuch a Prince ſhould be af<g ref="char:EOLhyphen"/>fronted, much more aſſaulted! No, methinks the Soldier ſhould rather diſarme himſelf, crampe a March, ſuffer violent death, then maligne ſuch a Soveraigne; for if any King upon earth can be re<g ref="char:EOLhyphen"/>ſiſted, yet can ſuch a King?</p>
+            <p>If this continue, what will be the iſſue, ye may judge by the preſent condition. The Tenant is not onely ready to ſurrender up his Leaſe, nor the Merchant to turne Bankrupt, nor the Chur<g ref="char:EOLhyphen"/>ches to ſtand empty without an Incumbent, the Country is not only conſumed with monthly Contributions, Exciſes, free Loans, free Benevolences, free Quarters, the Gentry are not onely aba<g ref="char:EOLhyphen"/>ſed, by having underlings take the command of the Country out of their hands, by taking their Horſes, Armor, every thing that delights the eye from them, or by taking away their Perſons, and muring them up in Priſons, the Poor are not onely ready to murmur, and rage, and ſtarve, but the whole Nation is ready to draw upon it ſelfe, and to give it ſelf the bloody ſtab.</p>
+            <p>The oppoſing of Princes hath in former times been fatall to this Nation, yea the Kingdome hath ſcarce ſuffered ſo much by all the miſeries that hath lighted upon it, as it hath done by civil
+<pb n="5" facs="tcp:117071:3"/>Wars. In the Reign of <hi>William</hi> the <hi>Conqueror,</hi> when the Engliſh men that had ſubmitted to his Government Rebelled againſt him,<note place="margin">Rog. Wendov. Poli. Chron. Hen Huntingd. Ypod. Neystr. Mat. Weſt. <hi>2.</hi> Mat. Pariſ. Will. Ma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mſb. Polydor. Virg.</note> it did not only change his courteou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> uſage of them into ex<g ref="char:EOLunhyphen"/>treame ſeverity, in eſcheating their Lands, abhorring their per<g ref="char:EOLhyphen"/>ſons (ſo that he would not ſuffer any <hi>Engliſh Scholler</hi> to come to promotion) driving ſome into exile, forcing others to live in woods like Outlaws, cutting off the hands of ſome, and the heads of others, but the Kingdome was brought to that miſerable de<g ref="char:EOLhyphen"/>ſolation, that the Highwayes lay un-occupyed through frequent robberies co<g ref="char:cmbAbbrStroke">̄</g>mitted, and all was waſted from <hi>Wales</hi> to the mouth of <hi>Wye,</hi> and the Land from <hi>Durham</hi> to <hi>York</hi> lay nine years un<g ref="char:EOLhyphen"/>tilled, ſo that for the want of ordinary ſuſtenance, the <hi>Northern</hi> people were enforced to eat the fleſh of men.<note place="margin">H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>venden. Ypod. Neyſtr. Huntington. l. <hi>8.</hi> Malmſb. Nov. l. <hi>2.</hi> p. <hi>105.</hi> Gervaſ. D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ro<g ref="char:EOLhyphen"/>bornenſis.</note> In the R igne of King <hi>Stephen,</hi> when the great Ones fell to their accuſations (as no Rebellion was ever without pretence of Reaſon, and iuſtice) they charging him with the violating of his Oath touching For<g ref="char:EOLhyphen"/>reſts, and other Immunities of the Church, and yet indeed (as the <hi>Hiſtory</hi> ſaith) the pleading of Church and Common-wealth, were but publique colours for private grudges, their onely quar<g ref="char:EOLhyphen"/>rell being a ſecret ſpight, that becauſe they had ſet him up, hee would deny them any thing, as the command of certaine Lord<g ref="char:EOLhyphen"/>ſhip<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and Caſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es which they expected, what outrages were com<g ref="char:EOLhyphen"/>mitted in the Nation? Every year heaped on new calamities, to the ruine of the Nation, thouſand Families were decayed, whole Counties depopulated, and ſo many mens Eſtates confiſcated to the Crown, that they generally went by the name of the Diſin<g ref="char:EOLhyphen"/>herited; yea as the height of miſery (by the calling in of the <hi>Scots</hi>) the wombs of women were ripped up, infants toſſed up<g ref="char:EOLhyphen"/>on the pikes of Speares, the Prieſts ſlain at the Altar, and the ſlain (in a moſt inhumane manner) diſmembred. In the Reign of K. <hi>Iohn,</hi> we find the eſtate of the Land moſt deplorable,<note place="margin">Lib. S. Alb. in vit. Guliel. Abbat.</note> not only by aſſaylings, ſurpriſings, burnings, ſpoylings, diſinheritings which were exerciſed by Fathers ſetting againſt their Sons, Brothers againſt Brothers, kinſmen and allies againſt their neereſt friends, but eſpecially by c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lling in the <hi>French Dolphin Lewis,</hi> who after he had gotten a little command in the Land, deſpiſed the <hi>Engliſh<g ref="char:EOLhyphen"/>men,</hi> beſtowing all their Townes and places of Command upon his own Cavallery;<note place="margin">Rog de. W. S.</note> for when <hi>Fitz-Walter</hi> demanded but <hi>Hert<g ref="char:EOLhyphen"/>ford
+<pb n="6" facs="tcp:117071:4"/>Caſtle,</hi> as his ancient right, an Anſwer was given him by <hi>Lewis</hi> according to the advice of all his <hi>French Nobility,</hi> that <hi>Engliſhmen</hi> were not worthy to have ſuch places intruſted to their charges, who were the betrayers of their naturall Lord; yea <hi>Milun</hi> upon his death-bed confeſſed, that if ever Prince <hi>Lewis</hi> had the Crown of <hi>England</hi> ſet on his head,<note place="margin">Ypod. Ney<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tr.</note> he would condemne into perpetuall Exile all them that then (as Traitors againſt their Soveraign) adhered to him againſt King <hi>Iohn,</hi>
+               <note place="margin">Mat. Pariſ. hist. maj.</note> and that he would extirpate all their Kindred. By one and another the diſtreſſes of the times were ſo grievous, that the Kingdom (as one ſaith) was like a generall ſhambles, or place of infernall torture. In the Reigne of <hi>Henry</hi> 3. To ſoon as the Kingdome grew diſcontented, every man dared whatſoever his own audaciouſneſſe did ſuggeſt,<note place="margin">Mat. Westminſt.</note> or others connivency permitted, inſomuch that <hi>Foulke de Brent,</hi> and other Nobles plucked from the K. moſt of his Crown-Land, without any other right than that which the equity of Tumults gave them; yea though the Land had been ſufficiently plagued with forraign Power, yet an ordinary Citizen,<note place="margin">Fabian.</note> even <hi>Conſtantine Fitz. Arnulph</hi> (whoſe Sedition infected all, to whom War was beneficiall,<note place="margin">Pariſ.</note> and Peace banefull) would have ſet up a <hi>Lewis</hi> againe in <hi>London,</hi> crying in the open ſtreets, <hi>Mountjoy, Mountjoy, God for us, and our Lord Lewis:</hi> Yea ſuch was the thraldom of thoſe times, through the ſpight of the Barons againſt <hi>Hubert de Burgo,</hi> that afterwards Iudgements were committed to the unjuſt,<note place="margin">Pariſ. Wendover.</note> Lawes to Out-laws, Peace to Wranglers, and Iuſtice to Wrong<g ref="char:EOLhyphen"/>doers. And in concluſion, through the bloody Battels that were fought, all was made a booty, and put to fire, and ſword, from the Marches of <hi>Wales</hi> to <hi>Shrewsbury,</hi> inſomuch that ſuch a greevous Famine happened,<note place="margin">Wendover. Pariſienſ.</note> that perſons were enforced to pluck the eares of Corne whilſt they were greene in the field. In the Reigne of <hi>Edward</hi> 2. when the Earles of <hi>Arundell, War<g ref="char:EOLhyphen"/>wick, Lancaster,</hi> and <hi>Warren</hi> made a wofull rent with the King, and would not aſſiſt him in his Warres againſt the <hi>Scots,</hi> not on<g ref="char:EOLhyphen"/>ly they which were left to keep the Marches, inſtead of valliant Champions proved petty Chapmen; but ſuch grievous depopu<g ref="char:EOLhyphen"/>lations were committed for foure yeares together, that there was ſcarce bread enough to bee found for the Kings table, and the common people in generall eat horſes, and dogs, yea men, and
+<pb n="7" facs="tcp:117071:4"/>children were ſtollen for food, and Theeves newly brought to Goales were torn in peices and devoured hall alive, by ſuch as had continued longer there; and the bloody-flux,<note place="margin">Tho. dela More. Tho. Walſingh.</note> and other di<g ref="char:EOLhyphen"/>ſeaſes that aroſe from unwholſome dyet, deſtroyed ſo many, that the living were ſcarce able to bury the dead. And in the reigne of <hi>Richard</hi> 2. how lamentable were the effects that were brought forth by that potent inſurrection in <hi>Kent, Eſſex, Surrey, Suf<g ref="char:EOLhyphen"/>folk. Norfolke, Cambridgeſhire,</hi> and <hi>Huntingtonſhire</hi> for Manu<g ref="char:EOLhyphen"/>miſſion? Hiſtoryes report, that inſtead of reforming the Com<g ref="char:EOLhyphen"/>mon-wealth, havock was made of the Common-wealth; the Laws were ſo neer to be overthrown, that that Idoll of Clowns,<note place="margin">Stow. Hollingſhead.</note>
+               <hi>Wat. Tyler,</hi> threatned that hee would have all the Lawes of the Kingdome come out of his own mouth; great men were in ſo little ſecurity, that bloody hands were layd upon the moſt emi<g ref="char:EOLhyphen"/>nent perſons in the Kingdome, and their heads cut off and fixed upon poles, being ſo placed that they might kiſſe,<note place="margin">Speed. Stow. Hollingſhead.</note> and whiſper in one anothers eare, and a generall intention to kill all perſons of quality, and to ſet up petty Tyrannies in the Nation; the Kings perſon was damnably conſpired againſt, and the Kings Mother unſufferably abuſed, the ſtately Priory of Saint <hi>Iohns</hi> without <hi>Smithfield</hi> was burnt to aſhes,<note place="margin">Sir Walter Lee in his ſpeech to St. Albans men.</note> and the goodly Pallace of the <hi>Sa<g ref="char:EOLhyphen"/>voy</hi> with all the riches therein conſumed, writings, rowles, and records defaced, and ſuch a generall ruin brought upon the King<g ref="char:EOLhyphen"/>dome before this War was ceaſrd, that there was neither Graſſe nor Corn, old nor new, within five miles ſpace of <hi>London.</hi>
+            </p>
+            <p>Yee ſee I have layd before you the miſeries of former times, would it not grieve you to behold againe ſuch Tragedyes? Take ye pleaſures in diſaſters? Can the ruin of your Nation affect you? Thinke of theſe things betimes, leſt after thoughts be like reco<g ref="char:EOLhyphen"/>vering phyſick to a dead creature. We are not far from deſtructi<g ref="char:EOLhyphen"/>on, the want of Trading, the unſeaſonable Harveſt, the Kingdom drayned of Meanes, beſides a thouſand other calamities afflicting the Age by theſe laſt Wars, foreſpeaks approaching miſery. What houſe is not full of anguiſh? What corner of the Land is not re<g ref="char:EOLhyphen"/>pleniſhed with groans and fight? How few are there that are not weary of theſe unſupportable burthens? How few that doe not deſire Peace? Will yee not heare the complaints of your Countrymen? deſpiſe ye the ſobbes of your fellow-Profeſſours? Will it be honour to you to leave a people deſolate? Will it bee
+<pb n="8" facs="tcp:117071:5"/>comfort to you to conclude in a waſte? Think what curſes will follow you, if ye continue theſe ſorrowes, lay to heart the trou<g ref="char:EOLhyphen"/>bled ſoules ye will have upon your death-beds it ye be authors of un-Chriſtian deſignes. When there are ſome hopes then of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLunhyphen"/>happy agreement, do not ye ſlake the hopes, or diſturbe the agree<g ref="char:EOLhyphen"/>ment. Do you yeeld, for the King condeſcends; doe ye neglect your own deſires, for he ſtands not too much upon his own he nor; expreſſe you a true ſelf-denyal, for he hath reſigned up his own will; he ſpeaketh for Peace, doe you eccho after him, and ſay, we will have Peace. I beſeech you therefore by all the Eng<g ref="char:EOLhyphen"/>liſh blood which runs in your veines, by all the prickles of Con<g ref="char:EOLhyphen"/>ſcience left in your Proteſtant ſoules, by all the reliques of pitty which ye feele towards a periſhing Nation, that ye take downe the Standards, that yee frill up the Colours, that yee caſt out of your hands the Piſtols, and Pole-axes. Oh ſhed no more blood, but ſtaunch the dropping veines; braine not the ſlender num<g ref="char:EOLhyphen"/>bers which are left, but preſerve the remnant; thinke when yee have murthered enough, tremble to be the Headſman of the Na<g ref="char:EOLhyphen"/>tion. Let all rage and rancour, ſpight and ſpoyle be layd aſide, and eye one another like freinds, embrace like Chriſtians, bring Vnity againe into a divided Nation: bleſſe the Age, and crown the Land with Peace.</p>
+            <closer>Da Pacem Domine.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
